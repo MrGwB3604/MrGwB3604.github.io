@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>
-        Ishannn Op!
+        UwU!
     </h1>
     <p>https://dsc.gg/sodiumbot</p>
 </body>
